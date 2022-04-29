@@ -14,6 +14,7 @@ Welcome to BadRobot a universal guarantee coin designed to facilitate fast and e
 <a href="https://discord.io/BadRobot"><img height="30" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" ></a>   
 <a href="https://www.facebook.com/groups/badrobot/announcements"><img height="30" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>   
 <a href="https://badrobot6.wixsite.com/my-site"><img height="30" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" ></a>     
+<a href="https://badrobot6.wixsite.com/my-site"><img height="30" src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" ></a>     
   
   
 </p>
