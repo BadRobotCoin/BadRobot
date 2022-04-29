@@ -9,11 +9,11 @@ Welcome to BadRobot a universal guarantee coin designed to facilitate fast and e
 <p align='center'>
    <a href="https://twitter.com/BadRobotCoin"><img height="30" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" ></a>    <a href="https://badrobotcoin.medium.com/"><img height="30" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" ></a>
 <a href="https://www.reddit.com/user/BadRobotCoin/comments/u3gunu/badrobot_a_digital_payment_currency_that/"><img height="30" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" ></a>   
-<a href=""><img height="30" src="https://camo.githubusercontent.com/cf4ed981404024c1adfc79d5575c4edf1836c4fe36b24b03383ece888cef7e29/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656c656772616d2d3243413545303f7374796c653d666f722d7468652d6261646765266c6f676f3d74656c656772616d266c6f676f436f6c6f723d7768697465" ></a>
-<a href=""><img height="30" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" ></a>  
+<a href="https://t.me/BadRobotCoin"><img height="30" src="https://camo.githubusercontent.com/cf4ed981404024c1adfc79d5575c4edf1836c4fe36b24b03383ece888cef7e29/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656c656772616d2d3243413545303f7374796c653d666f722d7468652d6261646765266c6f676f3d74656c656772616d266c6f676f436f6c6f723d7768697465" ></a>
+<a href="https://urlfr.ee/sujjz"><img height="30" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" ></a>  
 <a href="https://discord.io/BadRobot"><img height="30" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" ></a>   
 <a href="https://www.facebook.com/groups/badrobot/announcements"><img height="30" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>   
-<a href=""><img height="30" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" ></a>     
+<a href="https://badrobot6.wixsite.com/my-site"><img height="30" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" ></a>     
   
   
 </p>
